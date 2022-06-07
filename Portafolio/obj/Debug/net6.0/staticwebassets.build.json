@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mcJsOzxoppHkBOefctcflvpL3NHieVPe0lGxfDZEMMY=",
+  "Hash": "a2bMkieHt+0ZJ7SFEqMW69J0pNfqArJ4LtO8gXW2lLQ=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\img\\logo.jpg",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "img/logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
     },
     {
       "Identity": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\js\\site.js",
