@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a2bMkieHt+0ZJ7SFEqMW69J0pNfqArJ4LtO8gXW2lLQ=",
+  "Hash": "F6uAQ9rwHJSp34D/qZAYJbScMPcxjQnD48e7eQSOV5M=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\git\\NET6_FE\\Portafolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portafolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\css\\custom.css",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
       "Identity": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\css\\site.css",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
+    },
+    {
+      "Identity": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\img\\logo_digivice.jpg",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "img/logo_digivice.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo_digivice.jpg"
     },
     {
       "Identity": "C:\\git\\NET6_FE\\Portafolio\\wwwroot\\js\\site.js",
